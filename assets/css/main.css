@@ -40,7 +40,7 @@
 /* Color Presets - These classes override global colors when applied to any section or element, providing reuse of the sam color scheme. */
 
 .light-background {
-  --background-color: #f4fafd;
+  --background-color: #fbf5f6;
   --surface-color: #ffffff;
 }
 
@@ -546,9 +546,9 @@ section,
 	color: #fff;
 	background: linear-gradient(-45deg, #ffffff, #ff468d);
 	background-size: 400% 400%;
-	-webkit-animation: Gradient 15s ease infinite;
-	-moz-animation: Gradient 15s ease infinite;
-	animation: Gradient 15s ease infinite;
+	-webkit-animation: Gradient 10s ease infinite;
+	-moz-animation: Gradient 10s ease infinite;
+	animation: Gradient 10s ease infinite;
   width: 100%;
   min-height: 100vh;
   position: relative;
